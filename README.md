@@ -1,0 +1,1 @@
+# New-Fast-Charge-for-Magisk
